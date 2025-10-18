@@ -28,7 +28,7 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://discord.com/users/mowgli8901" target="_blank">
+  <a href="https://discord.com/users/533606000431726594" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
