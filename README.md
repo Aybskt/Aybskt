@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Cybersecurity+Student;Web+%26+Software+Developer" alt="Typing Animation" />
 </p>
 
-<h3 align="center">💻 Cybersecurity Student | Web & Software Developer | Tech Enthusiast</h3>
+<h3 align="center">💻 Cybersecurity Student | Futur GRC Consultant | Web & Software Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aybskt&label=Profile%20views&color=00BFFF&style=flat-square" alt="aybskt" />
