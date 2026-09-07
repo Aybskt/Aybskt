@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="282" viewBox="0 0 860 282" role="img" aria-labelledby="title desc">
+  <title id="title">Cybersecurity lab — animated network simulation</title>
+  <desc id="desc">Decorative simulation: radar scans network nodes, packets travel through a firewall, and terminal rules appear. No real security monitoring or scan is performed.</desc>
+  <defs>
+    <radialGradient id="radar"><stop stop-color="#39d353" stop-opacity=".12"/><stop offset="1" stop-color="#39d353" stop-opacity="0"/></radialGradient>
+    <linearGradient id="sweep"><stop stop-color="#39d353" stop-opacity="0"/><stop offset="1" stop-color="#7ee787" stop-opacity=".3"/></linearGradient>
+  </defs>
+  <style>
+    text{font-family:Consolas,monospace}.sweep{transform-origin:133px 151px;animation:rotate 6s linear infinite}.node{animation:ping 6s ease-out infinite}.packet{stroke-dasharray:9 191;animation:flow 4s linear infinite}.blocked{stroke-dasharray:7 173;animation:flow 4s linear 1.4s infinite}.rule{animation:print .45s both}.lock{animation:print .6s 1.6s both}.cursor{animation:blink 1.5s step-end infinite}
+    @keyframes rotate{to{transform:rotate(360deg)}}
+    @keyframes ping{0%,20%,100%{opacity:.35}25%,38%{opacity:1}}
+    @keyframes flow{from{stroke-dashoffset:200}to{stroke-dashoffset:0}}
+    @keyframes print{from{opacity:0;transform:translateX(-5px)}to{opacity:1;transform:translateX(0)}}
+    @keyframes blink{0%,100%{opacity:.2}50%{opacity:.85}}
+    @media(prefers-reduced-motion:reduce){.sweep,.node,.packet,.blocked,.rule,.lock,.cursor{animation:none}.packet,.blocked,.cursor{display:none}}
+  </style>
+  <rect x=".5" y=".5" width="859" height="281" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <text x="26" y="31" fill="#39d353" font-size="14">aybskt@github ~ $ ./security-lab.sh</text>
+  <text x="721" y="30" fill="#8b949e" font-size="10">SIMULATION</text>
+  <path d="M24 48H836M255 69V230M475 69V230M24 242H836" fill="none" stroke="#21262d"/>
+  <g fill="none" stroke="#23402c">
+    <circle cx="133" cy="151" r="74" fill="url(#radar)"/>
+    <circle cx="133" cy="151" r="49"/>
+    <circle cx="133" cy="151" r="24"/>
+    <path d="M59 151H207M133 77V225"/>
+  </g>
+  <g class="sweep"><path d="M133 151L81 99A74 74 0 0 1 133 77Z" fill="url(#sweep)"/><path d="M133 151V77" stroke="#7ee787" stroke-opacity=".65"/></g>
+  <g fill="#7ee787">
+    <circle class="node" cx="160" cy="114" r="3"/>
+    <circle class="node" style="animation-delay:1.8s" cx="178" cy="173" r="3"/>
+    <circle class="node" style="animation-delay:3.2s" cx="99" cy="188" r="3"/>
+    <circle class="node" style="animation-delay:4.5s" cx="91" cy="127" r="3"/>
+    <circle cx="133" cy="151" r="3"/>
+  </g>
+  <text x="75" y="69" fill="#8b949e" font-size="9" letter-spacing="2">NETWORK DISCOVERY</text>
+  <text x="281" y="85" fill="#8b949e" font-size="9" letter-spacing="2">PACKET INSPECTION</text>
+  <g fill="none" stroke="#23402c"><path d="M276 128H448M276 193H354"/><path d="M354 193V214H329"/></g>
+  <path class="packet" d="M276 128H448" pathLength="200" fill="none" stroke="#7ee787" stroke-width="2"/>
+  <path class="blocked" d="M276 193H354V214H329" pathLength="200" fill="none" stroke="#8b949e" stroke-width="2"/>
+  <rect x="352" y="106" width="28" height="102" rx="4" fill="#0e2418" stroke="#39d353" stroke-opacity=".6"/>
+  <path d="M353 123H379M353 140H379M353 157H379M353 174H379M353 191H379M366 107V123M360 123V140M371 140V157M360 157V174M371 174V191" stroke="#39d353" stroke-opacity=".35"/>
+  <text x="282" y="116" fill="#588b66" font-size="9">TLS</text>
+  <text x="397" y="116" fill="#7ee787" font-size="9">ALLOW</text>
+  <text x="281" y="180" fill="#8b949e" font-size="9">UNKNOWN</text>
+  <text x="392" y="196" fill="#8b949e" font-size="9">DROP</text>
+  <text x="333" y="229" fill="#588b66" font-size="9">FIREWALL</text>
+  <text x="501" y="83" fill="#8b949e" font-size="10">$ tail -f lab/events.log</text>
+  <g font-size="11">
+    <text class="rule" style="animation-delay:.3s" x="501" y="111" fill="#c9d1d9"><tspan fill="#7ee787">[INIT]</tspan> loading policy rules</text>
+    <text class="rule" style="animation-delay:.9s" x="501" y="136" fill="#c9d1d9"><tspan fill="#7ee787">[PASS]</tspan> encrypted traffic allowed</text>
+    <text class="rule" style="animation-delay:1.5s" x="501" y="161" fill="#c9d1d9"><tspan fill="#8b949e">[DROP]</tspan> unknown inbound rejected</text>
+    <text class="rule" style="animation-delay:2.1s" x="501" y="186" fill="#c9d1d9"><tspan fill="#7ee787">[AUDIT]</tspan> event added to lab log</text>
+    <text class="rule" style="animation-delay:2.7s" x="501" y="216" fill="#39d353">$ observe · understand · defend</text>
+  </g>
+  <rect class="cursor" x="708" y="207" width="6" height="11" fill="#7ee787"/>
+  <g class="lock" fill="none" stroke="#7ee787"><rect x="27" y="257" width="10" height="9" rx="1"/><path d="M29 257V254A3 3 0 0 1 35 254V257"/></g>
+  <text x="47" y="265" fill="#8b949e" font-size="10">DEFENSE IN DEPTH</text>
+  <text x="576" y="265" fill="#588b66" font-size="10">least privilege / continuous learning</text>
+</svg>

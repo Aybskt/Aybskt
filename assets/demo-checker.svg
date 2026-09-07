@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="333" viewBox="0 0 860 333" role="img" aria-labelledby="title desc">
+<title id="title">ANALYZE → FIX HEADERS → VERIFY — recorded CLI demo</title>
+<desc id="desc">Animated replay of actual output captured from the project's compiled Java source. Java launcher and classpath omitted from displayed commands. See data/demo-transcripts.json for the transcript.</desc>
+<style>text{font-family:Consolas,monospace}.line{animation:type 18s steps(94,end) infinite backwards}.progress{transform-origin:26px 0;animation:progress 18s linear infinite}@keyframes type{0%{clip-path:inset(0 100% 0 0)}6%,93%{clip-path:inset(0)}100%{clip-path:inset(0 100% 0 0)}}@keyframes progress{from{transform:scaleX(0)}to{transform:scaleX(1)}}@media(prefers-reduced-motion:reduce){.line,.progress{animation:none}}</style>
+<rect x=".5" y=".5" width="859" height="332" rx="10" fill="#0a0f13" stroke="#25392c"/>
+<text x="27" y="29" fill="#8b949e" font-size="10" letter-spacing="1">ANALYZE → FIX HEADERS → VERIFY</text>
+<text x="720" y="29" fill="#7ee787" font-size="10">CLI REPLAY</text>
+<path d="M26 46H834" stroke="#21262d"/>
+
+<svg x="27" y="60" width="806" height="22" viewBox="0 0 806 22"><g class="line" style="animation-delay:0.00s"><text y="16" fill="#7ee787" font-size="12">$ Cli -f sample.py --type</text></g></svg>
+<svg x="27" y="83" width="806" height="22" viewBox="0 0 806 22"><g class="line" style="animation-delay:0.45s"><text y="16" fill="#c9d1d9" font-size="12">Nombre total de fonctions : 2</text></g></svg>
+<svg x="27" y="106" width="806" height="22" viewBox="0 0 806 22"><g class="line" style="animation-delay:0.90s"><text y="16" fill="#c9d1d9" font-size="12">Nombre total d&#x27;annotations de type : 1</text></g></svg>
+<svg x="27" y="152" width="806" height="22" viewBox="0 0 806 22"><g class="line" style="animation-delay:1.80s"><text y="16" fill="#7ee787" font-size="12">$ Cli -f sample.py --sbutf8</text></g></svg>
+<svg x="27" y="175" width="806" height="22" viewBox="0 0 806 22"><g class="line" style="animation-delay:2.25s"><text y="16" fill="#c9d1d9" font-size="12">Les deux lignes du shebang et de l&#x27;encodage UTF-8 ont ete ajoutees avec succes.</text></g></svg>
+<svg x="27" y="221" width="806" height="22" viewBox="0 0 806 22"><g class="line" style="animation-delay:3.15s"><text y="16" fill="#7ee787" font-size="12">$ Cli -f sample.py --head</text></g></svg>
+<svg x="27" y="244" width="806" height="22" viewBox="0 0 806 22"><g class="line" style="animation-delay:3.60s"><text y="16" fill="#c9d1d9" font-size="12">Les deux premieres lignes sont des commentaires(Declaration Shebang et UTF-8).</text></g></svg>
+<rect x="26" y="303" width="808" height="2" fill="#21262d"/><rect class="progress" x="26" y="303" width="808" height="2" fill="#39d353"/><text x="27" y="323" fill="#8b949e" font-size="9">Actual output · Java launcher omitted · source 4f69737</text></svg>

@@ -1,79 +1,39 @@
+﻿<div align="center">
 
+<img src="./assets/avatar-scene.svg" width="860" alt="Hi, I'm Ayoub. Cybersecurity student and web & software developer based in Paris, working toward Governance, Risk & Compliance. Original Minecraft avatar." />
 
-<h1 align="center">
-  👋 Hey, I'm Ayoub  
-</h1>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Cybersecurity+Student;Web+%26+Software+Developer" alt="Typing Animation" />
-</p>
+### About
 
-<h3 align="center">💻 Cybersecurity Student | Futur GRC Consultant | Web & Software Developer | Tech Enthusiast</h3>
+![About Ayoub: cybersecurity student and web & software developer based in Paris. Building technical foundations through hands-on projects, with a long-term interest in Governance, Risk & Compliance. Currently learning React, Node.js and ethical hacking. Outside tech: gaming and FC Barcelona.](./assets/about.svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aybskt&label=Profile%20views&color=00BFFF&style=flat-square" alt="aybskt" />
-</p>
+### Selected projects
 
----
+[![Metadata Extractor — Java tool for inspecting image metadata and exploring hidden messages. View source.](./assets/metadata-extractor.svg)](https://github.com/Aybskt/Metadata-Extractor)
 
-### 🚀 About Me  
-- 🔭 Currently working on **[BookTopia](https://github.com/Aybskt/BookTopia)**  
-- 🌱 Learning **React, Node.js, and Ethical Hacking**  
-- 🧠 Focus Areas: **Web Development · Cybersecurity · Software Engineering**  
-- 🎮 Gamer & proud **FC Barcelona** supporter *(VISCA EL BARÇA 🔴🔵)*  
-- ⛽ Fueled by **Red Bull**, driven by **curiosity**  
-- 💡 Motto: **`< Code · Secure · Repeat />`**
+![Recorded CLI demo: encode Code Secure Repeat into a PNG, then decode the identical message.](./assets/demo-metadata.svg)
 
----
+[![Python Code Checker — Java tool for analyzing typing and comments in Python code. View source.](./assets/python-code-checker.svg)](https://github.com/Aybskt/Checker-Beautifier-in-Java-for-python-language)
 
-### 🌐 Connect with Me  
-<p align="center">
-  <a href="https://discord.com/users/533606000431726594" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/aybskt" target="blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me a Coffee" />
-  </a>
-</p>
+![Recorded CLI demo: detect one annotated function out of two, add shebang and UTF-8 headers, then verify them.](./assets/demo-checker.svg)
 
----
+[Explore my repositories →](https://github.com/Aybskt?tab=repositories)
 
-### 🛠️ Languages & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,java,c,linux,bash,git" />
-</p>
+### Toolbox
 
----
+![Toolbox — Languages: Java, Python, JavaScript, PHP, C, HTML and CSS. Environment: Linux, Bash and Git. Currently learning: React, Node.js and ethical hacking.](./assets/toolbox.svg)
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aybskt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aybskt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
-</p>
+### Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aybskt&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+<img src="./assets/contributions.svg" width="860" alt="Aybskt's real GitHub contributions over the past year, refreshed daily." />
 
----
+### Inside the terminal
 
-### 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aybskt&theme=onestar&no-frame=true&column=6" alt="GitHub trophies" />
-</p>
+<img src="./assets/security.svg" width="860" alt="Decorative cybersecurity simulation: network radar, packet inspection and firewall rules. This is an animation, not live monitoring." />
 
----
+### Connect
 
-<h3 align="center">💬 “Workin' on a weekend like usual.”</h3>
+[Discord](https://discord.com/users/533606000431726594) · [GitHub](https://github.com/Aybskt) · [Buy me a coffee](https://www.buymeacoffee.com/aybskt)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Red&size=22&pause=1200&color=C00000&center=true&width=600&lines=Life%20is%20good,;you%20know%20what%20I%20mean%20?;..." alt="Typing Animation Footer" />
-</p>
-
-
-
+<sub>Code · Secure · Repeat.</sub>

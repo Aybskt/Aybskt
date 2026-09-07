@@ -1,0 +1,33 @@
+{
+  "metadata": [
+    {
+      "command": "App -s image.png \"Code Secure Repeat\" encoded.png",
+      "stdout": "Message encode avec succes : [demo]\\encoded.png",
+      "stderr": ""
+    },
+    {
+      "command": "App -e encoded.png",
+      "stdout": "Code Secure Repeat",
+      "stderr": ""
+    }
+  ],
+  "checker": [
+    {
+      "command": "Cli -f sample.py --type",
+      "stdout": "Nombre total de fonctions : 2\nNombre total d'annotations de type : 1",
+      "stderr": ""
+    },
+    {
+      "command": "Cli -f sample.py --sbutf8",
+      "stdout": "Les deux lignes du shebang et de l'encodage UTF-8 ont ete ajoutees avec succes.",
+      "stderr": ""
+    },
+    {
+      "command": "Cli -f sample.py --head",
+      "stdout": "Les deux premieres lignes sont des commentaires(Declaration Shebang et UTF-8).",
+      "stderr": ""
+    }
+  ],
+  "metadata_commit": "299a7373bd938528a5ecb4ae0b22726641c53598",
+  "checker_commit": "4f69737bc86283702b6fd718b26c5d0fdd5eda14"
+}
