@@ -7,13 +7,13 @@
 <path class="trace" pathLength="1" d="M24 48H836" stroke="#39d353" stroke-opacity=".35"/>
 <text x="65" y="70" fill="#8b949e" font-size="10">Sep</text>
 <rect class="day" x="65.00" y="82" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:0.200s"><title>2025-09-21: 0 contributions</title></rect>
-<rect class="day" x="65.00" y="96" width="11.00" height="11" rx="2" fill="#0e4429" style="animation-delay:0.245s"><title>2025-09-22: 2 contributions</title></rect>
+<rect class="day" x="65.00" y="96" width="11.00" height="11" rx="2" fill="#26a641" style="animation-delay:0.245s"><title>2025-09-22: 2 contributions</title></rect>
 <rect class="day" x="65.00" y="110" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:0.290s"><title>2025-09-23: 0 contributions</title></rect>
 <rect class="day" x="65.00" y="124" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:0.335s"><title>2025-09-24: 0 contributions</title></rect>
 <rect class="day" x="65.00" y="138" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:0.380s"><title>2025-09-25: 0 contributions</title></rect>
 <rect class="day" x="65.00" y="152" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:0.425s"><title>2025-09-26: 0 contributions</title></rect>
 <rect class="day" x="65.00" y="166" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:0.470s"><title>2025-09-27: 0 contributions</title></rect>
-<rect class="day" x="79.00" y="82" width="11.00" height="11" rx="2" fill="#0e4429" style="animation-delay:0.245s"><title>2025-09-28: 2 contributions</title></rect>
+<rect class="day" x="79.00" y="82" width="11.00" height="11" rx="2" fill="#26a641" style="animation-delay:0.245s"><title>2025-09-28: 2 contributions</title></rect>
 <rect class="day" x="79.00" y="96" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:0.290s"><title>2025-09-29: 0 contributions</title></rect>
 <rect class="day" x="79.00" y="110" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:0.335s"><title>2025-09-30: 0 contributions</title></rect>
 <text x="79" y="70" fill="#8b949e" font-size="10">Oct</text>
@@ -32,9 +32,9 @@
 <rect class="day" x="107.00" y="96" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:0.380s"><title>2025-10-13: 0 contributions</title></rect>
 <rect class="day" x="107.00" y="110" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:0.425s"><title>2025-10-14: 0 contributions</title></rect>
 <rect class="day" x="107.00" y="124" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:0.470s"><title>2025-10-15: 0 contributions</title></rect>
-<rect class="day" x="107.00" y="138" width="11.00" height="11" rx="2" fill="#0e4429" style="animation-delay:0.515s"><title>2025-10-16: 1 contributions</title></rect>
-<rect class="day" x="107.00" y="152" width="11.00" height="11" rx="2" fill="#006d32" style="animation-delay:0.560s"><title>2025-10-17: 3 contributions</title></rect>
-<rect class="day" x="107.00" y="166" width="11.00" height="11" rx="2" fill="#0e4429" style="animation-delay:0.605s"><title>2025-10-18: 1 contributions</title></rect>
+<rect class="day" x="107.00" y="138" width="11.00" height="11" rx="2" fill="#006d32" style="animation-delay:0.515s"><title>2025-10-16: 1 contributions</title></rect>
+<rect class="day" x="107.00" y="152" width="11.00" height="11" rx="2" fill="#39d353" style="animation-delay:0.560s"><title>2025-10-17: 3 contributions</title></rect>
+<rect class="day" x="107.00" y="166" width="11.00" height="11" rx="2" fill="#006d32" style="animation-delay:0.605s"><title>2025-10-18: 1 contributions</title></rect>
 <rect class="day" x="121.00" y="82" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:0.380s"><title>2025-10-19: 0 contributions</title></rect>
 <rect class="day" x="121.00" y="96" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:0.425s"><title>2025-10-20: 0 contributions</title></rect>
 <rect class="day" x="121.00" y="110" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:0.470s"><title>2025-10-21: 0 contributions</title></rect>
@@ -219,7 +219,7 @@
 <rect class="day" x="471.00" y="82" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:1.505s"><title>2026-04-12: 0 contributions</title></rect>
 <rect class="day" x="471.00" y="96" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:1.550s"><title>2026-04-13: 0 contributions</title></rect>
 <rect class="day" x="471.00" y="110" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:1.595s"><title>2026-04-14: 0 contributions</title></rect>
-<rect class="day" x="471.00" y="124" width="11.00" height="11" rx="2" fill="#0e4429" style="animation-delay:1.640s"><title>2026-04-15: 1 contributions</title></rect>
+<rect class="day" x="471.00" y="124" width="11.00" height="11" rx="2" fill="#006d32" style="animation-delay:1.640s"><title>2026-04-15: 1 contributions</title></rect>
 <rect class="day" x="471.00" y="138" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:1.685s"><title>2026-04-16: 0 contributions</title></rect>
 <rect class="day" x="471.00" y="152" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:1.730s"><title>2026-04-17: 0 contributions</title></rect>
 <rect class="day" x="471.00" y="166" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:1.775s"><title>2026-04-18: 0 contributions</title></rect>
@@ -370,7 +370,7 @@
 <rect class="day" x="751.00" y="166" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:2.675s"><title>2026-09-05: 0 contributions</title></rect>
 <rect class="day" x="765.00" y="82" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:2.450s"><title>2026-09-06: 0 contributions</title></rect>
 <rect class="day" x="765.00" y="96" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:2.495s"><title>2026-09-07: 0 contributions</title></rect>
-<rect class="day" x="765.00" y="110" width="11.00" height="11" rx="2" fill="#0e4429" style="animation-delay:2.540s"><title>2026-09-08: 1 contributions</title></rect>
+<rect class="day" x="765.00" y="110" width="11.00" height="11" rx="2" fill="#006d32" style="animation-delay:2.540s"><title>2026-09-08: 1 contributions</title></rect>
 <rect class="day" x="765.00" y="124" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:2.585s"><title>2026-09-09: 0 contributions</title></rect>
 <rect class="day" x="765.00" y="138" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:2.630s"><title>2026-09-10: 0 contributions</title></rect>
 <rect class="day" x="765.00" y="152" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:2.675s"><title>2026-09-11: 0 contributions</title></rect>
@@ -383,6 +383,7 @@
 <rect class="day" x="779.00" y="152" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:2.720s"><title>2026-09-18: 0 contributions</title></rect>
 <rect class="day" x="779.00" y="166" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:2.765s"><title>2026-09-19: 0 contributions</title></rect>
 <rect class="day" x="793.00" y="82" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:2.540s"><title>2026-09-20: 0 contributions</title></rect>
+<rect class="day" x="793.00" y="96" width="11.00" height="11" rx="2" fill="#161b22" style="animation-delay:2.585s"><title>2026-09-21: 0 contributions</title></rect>
 <text x="26" y="105" fill="#8b949e" font-size="10">Mon</text>
 <text x="26" y="133" fill="#8b949e" font-size="10">Wed</text>
 <text x="26" y="161" fill="#8b949e" font-size="10">Fri</text>
